@@ -1,6 +1,6 @@
 ﻿<h3 align="center">👋 Hello there! I'm Gaël Lopes Da Silva</h3>
 <p align="center">
-  <a href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> •
+  <a href="https://gael-lopes-da-silva.github.io/MyPortfolio/" target="_BLANK">Website</a> •
   <a href="#">Twitter</a>
 </p>
 
