@@ -4,8 +4,9 @@
   <a href="">Twitter</a>
 </p>
 
-<img align="center" width="200" style="border-radius: 50%; " src="https://avatars.githubusercontent.com/u/93912163?s=400&u=6adf32778e1ea742c93149fc2ab99a543d27c72b&v=4">
-
+<p align="centre">
+  <img align="center" width="200" style="border-radius: 50%; " src="https://avatars.githubusercontent.com/u/93912163?s=400&u=6adf32778e1ea742c93149fc2ab99a543d27c72b&v=4">
+</p>
 ---
 
 ✨ I'm currently a student, studying in French. My main gaol is to comprehend the dark magic behind programming. I'm passionate about code that's behind OS, application, IA and more. 
