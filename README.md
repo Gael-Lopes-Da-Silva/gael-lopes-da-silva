@@ -1,7 +1,7 @@
 ﻿<h3 align="center">👋 Hello there! I'm Gaël Lopes Da Silva</h3>
 <p align="center">
-  <a href="">Website</a> •
-  <a href="">Twitter</a>
+  <a href="#">Website</a> •
+  <a href="#">Twitter</a>
 </p>
 
 ---
