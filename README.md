@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning: to use Github, to use Nim proprely.
+- 🌱 I’m currently learning: the c programming language, to use Nim proprely.
 - ⚙️ I'm currently working on: my portfolio, some test in Nim. 
 - 📖 My loved language: 👑 Nim
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
