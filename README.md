@@ -10,8 +10,9 @@
 <p align="center">❤️ I love learning new things like game development, server development, GUI app development or web design/development... I really like creating my own things and polish them.</p>
 
 ---
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 
 - 🌱 I’m currently learning: the c programming language.
 - ⚙️ I'm currently working on: my portfolio. 
-- 📖 My loved language:  ⌨️ c,  🐍 python
+- 📖 My loved language: <i class="programming lang-c"></i> <i class="programming lang-python"></i>
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
