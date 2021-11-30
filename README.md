@@ -4,7 +4,6 @@
 </p>
 
 ---
-<!-- source img: https://github.com/abranhe/programming-languages-logos -->
 
 <p align="center">✨ I'm a 18-years-old French student. I'm passionate about programming and scripting. I want to learn programming. Not just using libraries but also things more complex like creating my own libraries.</p>
 
@@ -14,5 +13,5 @@
 
 - 🌱 I’m currently learning: the c programming language.
 - ⚙️ I'm currently working on: my portfolio. 
-- 📖 My loved language: <img src="logo/c.png"></img> <img src="logo/python.png"></img>
+- 📖 My loved language: 👑nim, 🖥️c
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
