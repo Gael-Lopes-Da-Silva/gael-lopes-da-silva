@@ -13,5 +13,5 @@
 
 - 🌱 I’m currently learning: the c programming language.
 - ⚙️ I'm currently working on: my portfolio. 
-- 📖 My loved language: 👑nim, 🖥️c
+- 📖 My loved language: 👑nim
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
