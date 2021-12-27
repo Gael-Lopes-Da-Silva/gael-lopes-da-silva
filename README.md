@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning: the c programming language.
-- ⚙️ I'm currently working on: my portfolio. 
-- 📖 My loved language: 👑nim
+- 🌱 I’m currently learning: the C#.
+- ⚙️ I'm currently working on: a Brainfuck interpreter. 
+- 📖 My loved language: C#
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
