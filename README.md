@@ -13,5 +13,4 @@
 
 - 🌱 I’m currently learning: how to work
 - ⚙️ I'm currently working on: learning
-- 📖 My loved language: C#
 - ⚡ Fun fact: The more you pedal more faster and the less you ride more slower.
