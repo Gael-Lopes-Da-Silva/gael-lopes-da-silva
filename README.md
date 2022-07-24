@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center">✨ I'm a 18-years-old French student. I'm passionate about programming and scripting.</p>
+<p align="center">✨ I'm a 19-years-old French student. I'm passionate about programming and scripting.</p>
 
 <p align="center">❤️ I love learning new things and I really like creating my own things and polish them.</p>
 
