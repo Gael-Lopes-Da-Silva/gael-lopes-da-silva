@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-    ✨ I'm a 19-years-old French student. I'm passionate about programming and scripting.
+    ✨ I'm a 20-years-old French student. I'm passionate about programming and scripting.
 </p>
 
 <p align="center">
