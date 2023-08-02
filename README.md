@@ -1,22 +1,28 @@
-﻿<h3 align="center">
-    👋 Hi! I'm Gaël Lopes Da Silva
+﻿- uses: frdmn/age-calculator-action@v1.1
+  id: birthday
+  with:
+    date: '1991-08-17'
+
+<h3 align="center">
+    :wave: Hi! I'm Gaël Lopes Da Silva
 </h3>
+
 <p align="center">
-    <a href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a>
+    <a href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-    ✨ I'm a 20-years-old French student. I'm passionate about programming and scripting.
+    :sparkles: I'm a 20-years-old French student. I'm currently learning computer science in France.
 </p>
 
 <p align="center">
-    ❤️ I love learning new things and I really like creating my own things and polish them.
+    :heart: I love learning new things and I really like creating my own things and polish them.
 </p>
 
 ---
 
-- 🌱 I'm currently learning: how to work
-- ⚙️ I'm currently working on: learning
-- ⭐ Fun fact: The more you pedal more faster and the less you ride more slower.
+- :seedling: I'm currently learning: how to work
+- :gear: I'm currently working on: learning
+- :star: Fun fact: The more you pedal more faster and the less you ride more slower.
