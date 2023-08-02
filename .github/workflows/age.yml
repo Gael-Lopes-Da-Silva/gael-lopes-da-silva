@@ -14,4 +14,4 @@ jobs:
           birth_date="2003-06-19"
           today=$(date +%Y-%m-%d)
           age=$((today - birth_date))
-          sed -i "s/{age}/$age/g" README.md
+          sed -i "s/{age}/$age/g" ./README.md
