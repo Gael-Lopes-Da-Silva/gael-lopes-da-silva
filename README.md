@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-    :sparkles: I'm a {age}-years-old French student. I'm currently learning computer science in France.
+    :sparkles: I'm a print::age() years-old French student. I'm currently learning computer science in France.
 </p>
 
 <p align="center">
