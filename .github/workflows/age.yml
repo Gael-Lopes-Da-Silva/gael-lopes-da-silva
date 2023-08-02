@@ -12,6 +12,10 @@ jobs:
       - name: Update age
         run: |
           sed -i "s/print::age/20/" ./README.md
+          
+          git config --global user.name "gael-lopes-da-silva"
+          git config --global user.email "gael.lopes-da-silva@outlook.fr"
+          
           git add -A
           git commit -m "updated age"
           git push
