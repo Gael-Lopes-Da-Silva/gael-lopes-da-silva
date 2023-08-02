@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update age
         run: |
-          sed -i "s/{age}/20/g" ./README.md
+          ls
