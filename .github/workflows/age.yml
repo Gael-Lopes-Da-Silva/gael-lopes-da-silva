@@ -11,7 +11,21 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update age
         run: |
-          sed -i "s/print::age/20/" ./README.md
+          birth_date="2003-06-19"
+          current_date=$(date +%F)
+          birth_year=$(date -d "$birth_date" +%Y)
+          current_year=$(date -d "$current_date" +%Y)
+          age=$((current_year - birth_year))
+          birth_month=$(date -d "$birth_date" +%m)
+          current_month=$(date -d "$current_date" +%m)
+          birth_day=$(date -d "$birth_date" +%d)
+          current_day=$(date -d "$current_date" +%d)
+
+          if [[ 10#$current_month -lt 10#$birth_month || ( 10#$current_month -eq 10#$birth_month && 10#$current_day -lt 10#$birth_day ) ]]; then
+            age=$((age - 1))
+          fi
+          
+          sed -i "s/print::age/$age/" ./README.md
           
           git config --global user.name "gael-lopes-da-silva"
           git config --global user.email "gael.lopes-da-silva@outlook.fr"
