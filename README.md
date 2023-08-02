@@ -8,8 +8,12 @@
 
 ---
 
+<script>
+    ${{ steps.birthday.outputs.age }}
+</script>
+
 <p align="center">
-    :sparkles: I'm a ${{ steps.birthday.outputs.age }}-years-old French student. I'm currently learning computer science in France.
+    :sparkles: I'm a -years-old French student. I'm currently learning computer science in France.
 </p>
 
 <p align="center">
