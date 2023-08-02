@@ -12,4 +12,6 @@ jobs:
       - name: Update age
         run: |
           sed -i "s/print::age/20/" ./README.md
-          cat ./README.md
+          git add -A
+          git commit -m "updated age"
+          git push
