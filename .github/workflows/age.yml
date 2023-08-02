@@ -11,8 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update age
         run: |
-          import datetime
-          birth_date = datetime.date(2003, 6, 19)
-          today = datetime.date.today()
-          age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+          birth_date="2003-06-19"
+          today=$(date +%Y-%m-%d)
+          age=$((today - birth_date))
           sed -i "s/{age}/$age/g" README.md
