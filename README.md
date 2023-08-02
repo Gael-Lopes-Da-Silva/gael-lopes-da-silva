@@ -1,9 +1,4 @@
-﻿- uses: frdmn/age-calculator-action@v1.1
-  id: birthday
-  with:
-    date: '1991-08-17'
-
-<h3 align="center">
+﻿<h3 align="center">
     :wave: Hi! I'm Gaël Lopes Da Silva
 </h3>
 
