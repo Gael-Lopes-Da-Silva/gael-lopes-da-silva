@@ -1,0 +1,18 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update age
+        run: |
+          import datetime
+          birth_date = datetime.date(2003, 6, 19)
+          today = datetime.date.today()
+          age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+          sed -i "s/{age}/$age/g" README.md
