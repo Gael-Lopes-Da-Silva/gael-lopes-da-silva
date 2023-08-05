@@ -13,4 +13,4 @@ person = {
 }
 ~~~
 
-<a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <img align="right" src="https://media.discordapp.net/attachments/758296682659184640/1093085367571329094/image0-3-19.gif">
+<a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <img align="right" with="50" src="https://media.discordapp.net/attachments/758296682659184640/1093085367571329094/image0-3-19.gif">
