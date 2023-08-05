@@ -15,4 +15,4 @@ person = {
 }
 ~~~
 
-<a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <img align="right" style="width:20px;" src="https://media.discordapp.net/attachments/758296682659184640/1093085367571329094/image0-3-19.gif">
+<a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <img align="right" style="width:20px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
