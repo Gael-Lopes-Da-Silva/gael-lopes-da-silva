@@ -1,16 +1,6 @@
 ﻿<h3 align="center">
-    :wave: Hi! 
+    :wave: Hi! Since code is better than words...
 </h3>
-
-<p align="center">
-    <a href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Portfolio</a>
-</p>
-
----
-
-<p align="center">
-    Since code is better than words...
-</p>
 
 ~~~python
 person = {
@@ -22,3 +12,5 @@ person = {
     "website": "https://gael-lopes-da-silva.github.io/MyPortfolio/"
 }
 ~~~
+
+<a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <p align="right">Bottom text</p>
