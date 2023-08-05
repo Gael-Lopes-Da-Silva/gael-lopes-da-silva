@@ -13,4 +13,4 @@ person = {
 }
 ~~~
 
-<a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <p align="right">Bottom text</p>
+<a align="right">Bottom text</a> <a align="left" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> 
