@@ -1,0 +1,27 @@
+name: build the README
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - run: |
+          python build.py
+          
+          git config --global user.name 'gael-lopes-da-silva'
+          git config --global user.email 'gael.lopes-da-silva@outlook.fr'
+
+          git add -A
+          git commit -am "automated build"
+          git push
