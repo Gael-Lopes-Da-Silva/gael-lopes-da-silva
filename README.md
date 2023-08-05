@@ -4,12 +4,14 @@
 
 ~~~python
 person = {
-    "name": "Gaël Lopes Da Silva",
+    "first_name": "Gaël",
+    "last_name": "Lopes Da Silva",
     "age": 20,
     "gender": "boy",
     "job": "student",
     "country": "France",
-    "website": "https://gael-lopes-da-silva.github.io/MyPortfolio/"
+    "website": "https://gael-lopes-da-silva.github.io/MyPortfolio/",
+    "hobbies": ["programming", "sport", "piano", "tinkering"]
 }
 ~~~
 
