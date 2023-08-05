@@ -1,5 +1,5 @@
 ﻿<h3 align="center">
-    :wave: Hi! I'm Gaël Lopes Da Silva
+    :wave: Hi! 
 </h3>
 
 <p align="center">
@@ -9,15 +9,16 @@
 ---
 
 <p align="center">
-    :sparkles: I'm a 20-years-old French student. I'm currently learning computer science in France.
+    Since code is better than words...
 </p>
 
-<p align="center">
-    :heart: I love learning new things and I really like creating my own things and polish them.
-</p>
-
----
-
-- :seedling: I'm currently learning: how to work
-- :gear: I'm currently working on: learning
-- :star: Fun fact: The more you pedal more faster and the less you ride more slower.
+~~~python
+person = {
+    "name": "Gaël Lopes Da Silva",
+    "age": 20,
+    "gender": "boy",
+    "job": "student",
+    "country": "France",
+    "website": "https://gael-lopes-da-silva.github.io/MyPortfolio/"
+}
+~~~
