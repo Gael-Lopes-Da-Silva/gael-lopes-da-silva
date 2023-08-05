@@ -2,7 +2,7 @@
 
 ~~~python
 person = {
-    "first_name": "Gaël",
+    "first_name": "GaÃ«l",
     "last_name": "Lopes Da Silva",
     "age": 20,
     "gender": "boy",
