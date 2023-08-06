@@ -1,9 +1,9 @@
-<!--- last build: 2023-08-06 00:40:21.045888--->
+<!--- last build: 2023-08-06 02:44:09.563856--->
 <h3 align="center">:wave: Hi! Since code is better than words...</h3>
 
 ~~~python
 person = {
-    "first_name": "GaÃ«l",
+    "first_name": "Gaël",
     "last_name": "Lopes Da Silva",
     "age": 20,
     "gender": "boy",
@@ -14,4 +14,4 @@ person = {
 }
 ~~~
 
-<kbd> <br> <a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a> <br> <br> </kbd><img align="right" style="width:30px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
+---<kbd><br><a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a><br><br></kbd><img align="right" style="width:30px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
