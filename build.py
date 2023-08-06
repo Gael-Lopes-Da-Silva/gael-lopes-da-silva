@@ -1,3 +1,7 @@
+# @author: Gael Lopes Da Silva
+# @project: gael-lopes-da-silva
+# @github: https://github.com/Gael-Lopes-Da-Silva/gael-lopes-da-silva
+
 from datetime import datetime
 
 def calculateAge():
