@@ -1,9 +1,9 @@
-<!--- last build: 2023-08-06 02:16:09.241985--->
+<!--- last build: 2023-08-06 00:16:48.551186--->
 <h3 align="center">:wave: Hi! Since code is better than words...</h3>
 
 ~~~python
 person = {
-    "first_name": "Gaël",
+    "first_name": "GaÃ«l",
     "last_name": "Lopes Da Silva",
     "age": 20,
     "gender": "boy",
