@@ -22,6 +22,8 @@ jobs:
           git config --global user.name 'gael-lopes-da-silva'
           git config --global user.email 'gael.lopes-da-silva@outlook.fr'
 
-          git add -A
-          git commit -am "automated build"
-          git push
+          if ! git diff --quiet "README.md"; then
+            git add "README.md"
+            git commit -am "automated build"
+            git push
+          fi
