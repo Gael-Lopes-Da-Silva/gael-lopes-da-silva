@@ -8,6 +8,7 @@ def calculateAge():
 
 def generateMarkdown():
     with open("README.md", "w") as file:
+        file.write('<!---' + datetime.now() + '--->')
         file.write('<h3 align="center">:wave: Hi! Since code is better than words...</h3>\n')
         file.write('\n')
         file.write('~~~python\n')
