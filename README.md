@@ -1,4 +1,4 @@
-<!--- last build: 2023-08-06 02:16:09.241985--->
+<!--- last build: 2023-08-06 02:35:10.343046--->
 <h3 align="center">:wave: Hi! Since code is better than words...</h3>
 
 ~~~python
@@ -14,4 +14,4 @@ person = {
 }
 ~~~
 
-<a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a><img align="right" style="width:20px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
+<kbd><br><a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">Website</a><br></kbd><img align="right" style="width:20px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
