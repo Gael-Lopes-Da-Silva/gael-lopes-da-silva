@@ -16,7 +16,7 @@ def generateMarkdown():
         file.write('    "first_name": "Gaël",\n')
         file.write('    "last_name": "Lopes Da Silva",\n')
         file.write('    "age": ' + calculateAge() + ',\n')
-        file.write('    "gender": "boy",\n')
+        file.write('    "gender": "male",\n')
         file.write('    "job": "student",\n')
         file.write('    "country": "France",\n')
         file.write('    "website": "https://gael-lopes-da-silva.github.io/MyPortfolio/",\n')
