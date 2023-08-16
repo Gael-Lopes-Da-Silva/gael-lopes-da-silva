@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!--- last build: 2023-08-16 09:06:58.535820--->
+=======
+<!--- last build: 2023-08-16 07:06:33.971212--->
+>>>>>>> b04e4feb5fcb43e6427e31145e3cd48d0f5d0e82
 <h2 align="center">:wave: Hi! Since code is better than words...</h2>
 
 ~~~python
