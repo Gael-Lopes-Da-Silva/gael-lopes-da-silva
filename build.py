@@ -11,7 +11,7 @@ def calculateAge():
     return str(age)
 
 def generateMarkdown():
-    with open("README.md", "w") as file:
+    with open("README.md", "w", encoding="utf-8") as file:
         file.write('<!--- last build: ' + str(datetime.now()) + '--->\n')
         file.write('<h3 align="center">:wave: Hi! Since code is better than words...</h3>\n')
         file.write('\n')
@@ -28,8 +28,10 @@ def generateMarkdown():
         file.write('}\n')
         file.write('~~~\n')
         file.write('\n')
-        file.write('<kbd><br><a align="left" title="This is my portfolio :D" href="https://gael-lopes-da-silva.github.io/MyPortfolio/">My Website</a><br><br></kbd>')
+        file.write('**[<kbd> <br> Website <br> </kbd>][Website]**')
         file.write('<img align="right" style="width:30px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">\n')
+        file.write('\n')
+        file.write('[Website]: https://gael-lopes-da-silva.github.io/MyPortfolio/\n')
 
 if __name__ == "__main__":
     generateMarkdown()
