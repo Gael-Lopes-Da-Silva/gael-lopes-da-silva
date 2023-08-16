@@ -13,7 +13,7 @@ def calculateAge():
 def generateMarkdown():
     with open("README.md", "w", encoding="utf-8") as file:
         file.write('<!--- last build: ' + str(datetime.now()) + '--->\n')
-        file.write('<h2 align="center">:wave: Hi! Since code is better than words...</h2>\n')
+        file.write('<h2 align="center">🖐️ Hi! Since code is better than words...</h2>\n')
         file.write('\n')
         file.write('~~~python\n')
         file.write('person = {\n')
@@ -28,8 +28,8 @@ def generateMarkdown():
         file.write('}\n')
         file.write('~~~\n')
         file.write('\n')
-        file.write('**[<kbd> <br> Website <br> </kbd>][Website]**')
-        file.write('<img align="right" style="width:30px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">\n')
+        file.write('**[<kbd> <br> Website <br> </kbd>][Website]**\n')
+        file.write('<img align="right" style="width:40px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">\n')
         file.write('\n')
         file.write('[Website]: https://gael-lopes-da-silva.github.io/MyPortfolio/\n')
 
