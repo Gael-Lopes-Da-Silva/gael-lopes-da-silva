@@ -1,8 +1,8 @@
-<!--- last build: 2023-08-16 14:58:48.671392--->
+<!--- last build: 2023-08-16 15:04:53.502398--->
 <h2 align="center">🖐️ Hi! Since code is better than words...</h2>
 
-~~~python
-person = {
+~~~json
+"person": {
     "first_name": "Gaël",
     "last_name": "Lopes Da Silva",
     "age": 20,
@@ -10,7 +10,11 @@ person = {
     "height": "165cm",
     "job": "student",
     "country": "France",
-    "hobbies": ["programming", "sport", "piano"]
+    "hobbies": [
+        "programming",
+        "sport",
+        "piano"
+    ]
 }
 ~~~
 
