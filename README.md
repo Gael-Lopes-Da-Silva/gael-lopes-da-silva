@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<!--- last build: 2023-08-16 09:05:23.204595--->
+<!--- last build: 2023-08-16 09:06:58.535820--->
 <h2 align="center">:wave: Hi! Since code is better than words...</h2>
-=======
-<!--- last build: 2023-08-16 07:03:10.613041--->
-<h3 align="center">:wave: Hi! Since code is better than words...</h3>
->>>>>>> 3d2a62361675ba968e56e6ca700388dbc8f877a9
 
 ~~~python
 person = {
