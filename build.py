@@ -32,11 +32,9 @@ def generateMarkdown():
         file.write('~~~\n')
         file.write('\n')
         file.write('**[<kbd> <br> Website <br> </kbd>][Website]**\n')
-        file.write('**[<kbd> <br> GitLab <br> </kbd>][GitLab]**\n')
         file.write('<img align="right" style="width:37px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">\n')
         file.write('\n')
         file.write('[Website]: https://gael-lopes-da-silva.github.io/MyPortfolio/\n')
-        file.write('[GitLab]: https://gitlab.com/Gael-Lopes-Da-Silva\n')
 
 if __name__ == "__main__":
     generateMarkdown()
