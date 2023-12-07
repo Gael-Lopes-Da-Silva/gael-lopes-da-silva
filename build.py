@@ -13,7 +13,7 @@ def calculateAge():
 def generateMarkdown():
     with open("README.md", "w", encoding="utf-8") as file:
         file.write('<!--- last build: ' + str(datetime.now()) + '--->\n')
-        file.write('<h2 align="center">🖐️ Hi! Since code is better than words...</h2>\n')
+        file.write('<h2 align="center">readFile("informations.json");</h2>\n')
         file.write('\n')
         file.write('~~~json\n')
         file.write('"person": {\n')
@@ -21,7 +21,6 @@ def generateMarkdown():
         file.write('    "last_name": "Lopes Da Silva",\n')
         file.write('    "age": ' + calculateAge() + ',\n')
         file.write('    "gender": "male",\n')
-        file.write('    "height": "165cm",\n')
         file.write('    "job": "student",\n')
         file.write('    "country": "France",\n')
         file.write('    "hobbies": [\n')

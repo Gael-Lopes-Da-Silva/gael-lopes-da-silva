@@ -1,5 +1,5 @@
-<!--- last build: 2023-11-09 20:22:45.410056--->
-<h2 align="center">🖐️ Hi! Since code is better than words...</h2>
+<!--- last build: 2023-12-07 22:05:13.502357--->
+<h2 align="center">readFile("informations.json");</h2>
 
 ~~~json
 "person": {
@@ -7,7 +7,6 @@
     "last_name": "Lopes Da Silva",
     "age": 20,
     "gender": "male",
-    "height": "165cm",
     "job": "student",
     "country": "France",
     "hobbies": [
