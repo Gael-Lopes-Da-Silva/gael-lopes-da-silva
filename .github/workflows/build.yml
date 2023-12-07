@@ -1,4 +1,4 @@
-name: updated the age on the README file
+name: update README
 
 on:
   push:
