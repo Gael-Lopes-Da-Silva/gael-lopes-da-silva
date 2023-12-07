@@ -1,8 +1,7 @@
-<!--- last build: 2023-12-07 21:07:15.911092--->
-<h2 align="center">readFile("informations.json");</h2>
-
+<!--- last build: 2023-12-07 21:24:28.524141--->
 ~~~json
-"person": {
+"message": "🖐️ Hi, this is my Github account !",
+"informations": {
     "first_name": "Gaël",
     "last_name": "Lopes Da Silva",
     "age": 20,
@@ -11,7 +10,8 @@
     "country": "France",
     "hobbies": [
         "programming",
-        "sport"
+        "sport",
+        "breathing"
     ]
 }
 ~~~
