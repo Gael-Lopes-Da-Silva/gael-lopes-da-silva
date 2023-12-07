@@ -1,4 +1,4 @@
-<!--- last build: 2023-12-07 22:05:13.502357--->
+<!--- last build: 2023-12-07 21:07:15.911092--->
 <h2 align="center">readFile("informations.json");</h2>
 
 ~~~json
