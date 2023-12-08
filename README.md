@@ -1,4 +1,4 @@
-<!--- last build: 2023-12-07 21:28:40.152432--->
+<!--- last build: 2023-12-08 21:55:53.836678--->
 ~~~json
 "message": "🖐️ Hi, this is my Github account !",
 "informations": {
@@ -11,7 +11,7 @@
     "hobbies": [
         "programming",
         "sport",
-        "breathing"
+        "live"
     ]
 }
 ~~~
