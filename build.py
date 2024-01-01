@@ -28,7 +28,7 @@ def generateMarkdown():
         file.write('    "hobbies": [\n')
         file.write('        "programming",\n')
         file.write('        "sport",\n')
-        file.write('        "live"\n')
+        file.write('        "enjoying life"\n')
         file.write('    ]\n')
         file.write('}\n')
         file.write('~~~\n')
