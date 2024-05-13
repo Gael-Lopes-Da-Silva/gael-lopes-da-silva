@@ -36,7 +36,7 @@ def generateMarkdown():
         file.write('**[<kbd> <br> Website <br> </kbd>][Website]**\n')
         file.write('<img align="right" style="width:37px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">\n')
         file.write('\n')
-        file.write('[Website]: https://gael-lopes-da-silva.github.io/MyPortfolio/\n')
+        file.write('[Website]: https://gael-lopes-da-silva.ovh/\n')
 
 if __name__ == "__main__":
     generateMarkdown()
