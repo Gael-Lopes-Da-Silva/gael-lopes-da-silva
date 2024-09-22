@@ -33,7 +33,7 @@ def generateMarkdown():
         file.write('}\n')
         file.write('~~~\n')
         file.write('\n')
-        file.write('**[<kbd> <br> Website <br> </kbd>][Website]**\n')
+        file.write('**[<kbd> <br> Portfolio <br> </kbd>][Portfolio]**\n')
         file.write('<img align="right" style="width:37px;" title="This is the yellow dancing man. Don\'t question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">\n')
         file.write('\n')
         file.write('[Portfolio]: https://gael-lopes-da-silva.github.io/portfolio/\n')
