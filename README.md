@@ -1,4 +1,4 @@
-<!--- last build: 2024-06-20 00:32:12.883784--->
+<!--- last build: 2024-09-22 14:47:45.481135--->
 ~~~json
 "message": "🖐️ Hi, this is my Github account !",
 "informations": {
@@ -17,6 +17,6 @@
 ~~~
 
 **[<kbd> <br> Website <br> </kbd>][Website]**
-<img align="right" style="width:37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./img/yellow_man.gif">
+<img align="right" style="width:37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">
 
-[Website]: https://gael-lopes-da-silva.ovh/
+[Portfolio]: https://gael-lopes-da-silva.github.io/portfolio/
