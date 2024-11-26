@@ -1,29 +1,31 @@
 name: update README
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 18-20 6 *"
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.10' 
-      - run: |
-          python build.py
-          
-          git config --global user.name 'gael-lopes-da-silva'
-          git config --global user.email 'gael.lopes-da-silva@outlook.fr'
+env:
+    JULIA_NUM_THREADS: 2
 
-          if ! git diff --quiet "README.md"; then
-            git add "README.md"
-            git commit -am "automated build"
-            git push
-          fi
+on:
+    push:
+        branches: ["main"]
+    pull_request:
+        branches: ["main"]
+    workflow_dispatch:
+    schedule:
+        - cron: "0 0 18-20 6 *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: julia-actions/setup-julia@latest
+            - run: |
+                  julia main.jl
+
+                  git config --global user.name 'gael-lopes-da-silva'
+                  git config --global user.email 'gael.lopes-da-silva@outlook.fr'
+
+                  if ! git diff --quiet "README.md"; then
+                      git add "README.md"
+                      git commit -am "automated build"
+                      git push
+                  fi

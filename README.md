@@ -1,22 +1,17 @@
-<!--- last build: 2024-09-22 14:49:11.379016--->
+<!--- 2024-11-26T15:17:16.029 --->
+
 ~~~json
-"message": "🖐️ Hi, this is my Github account !",
+"message": "Welcome to my profile",
 "informations": {
-    "first_name": "Gaël",
-    "last_name": "Lopes Da Silva",
+    "name": "Gaël LOPES DA SILVA",
     "age": 21,
-    "gender": "male",
-    "job": "student",
-    "country": "France",
-    "hobbies": [
-        "programming",
-        "sport",
-        "enjoying life"
+    "location": "France",
+    "job": [
+        "Web Developper",
+        "Student"
     ]
 }
 ~~~
 
-**[<kbd> <br> Portfolio <br> </kbd>][Portfolio]**
-<img align="right" style="width:37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">
-
-[Portfolio]: https://gael-lopes-da-silva.github.io/portfolio/
+[<kbd style="padding: 10px; font-weight: bold;">Portfolio</kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
+<img align="right" style="width: 37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">
