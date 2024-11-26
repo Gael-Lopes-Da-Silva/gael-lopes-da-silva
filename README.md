@@ -1,7 +1,6 @@
-<!--- 2024-11-26T14:33:31.148 --->
+<!--- 2024-11-26T15:34:10.315 --->
 
 ~~~
-
  █████   ███   █████          ████
 ░░███   ░███  ░░███          ░░███
  ░███   ░███   ░███   ██████  ░███   ██████   ██████  █████████████    ██████
@@ -10,7 +9,6 @@
   ░░░█████░█████░   ░███░░░   ░███ ░███  ███░███ ░███ ░███ ░███ ░███ ░███░░░
     ░░███ ░░███     ░░██████  █████░░██████ ░░██████  █████░███ █████░░██████
      ░░░   ░░░       ░░░░░░  ░░░░░  ░░░░░░   ░░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░
-
 ~~~
 
 ~~~json
@@ -25,5 +23,5 @@
 }
 ~~~
 
-[<kbd><br><h3>Portfolio</h3><br><br></kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
+[<kbd><br>Portfolio<br><br></kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
 <img align="right" style="width: 37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">
