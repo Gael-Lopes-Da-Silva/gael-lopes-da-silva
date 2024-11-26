@@ -1,4 +1,4 @@
-<!--- 2024-11-26T14:28:37.785 --->
+<!--- 2024-11-26T15:31:13.322 --->
 
 ~~~
 
@@ -25,5 +25,5 @@
 }
 ~~~
 
-[<kbd><b><br>Portfolio<br></b</kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
+[<kbd><b><br>Portfolio<br></b></kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
 <img align="right" style="width: 37px;" title="This is the yellow dancing man. Don't question him." alt="Too bad. He gone..." src="./assets/yellow_man.gif">
