@@ -1,4 +1,4 @@
-<!--- 2024-11-28T14:58:31.685 --->
+<!--- 2024-11-28T15:02:43.399 --->
 
 ```shell
 > cat user.json
@@ -21,5 +21,5 @@
 }
 ```
 
-[<kbd><br><strong>Portfolio</strong><br><br></kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
+<a href="https://gael-lopes-da-silva.github.io/portfolio/"><kbd><br>&nbsp;&nbsp;Portfolio&nbsp;&nbsp;<br><br></kbd></a>
 <img align="right" style="width: 37px;" title="Behold yon man clad in yellow, who doth dance with mirth. Question him not, fair sirs." alt="Alas, he hath departed..." src="./assets/yellow_man.gif">
