@@ -36,7 +36,7 @@ function (@main)(args)
     }
     ```
 
-    [<kbd><br><strong>Portfolio</strong><br><br></kbd>](https://gael-lopes-da-silva.github.io/portfolio/)
+    <a href="https://gael-lopes-da-silva.github.io/portfolio/"><kbd><br>&nbsp;&nbsp;Portfolio&nbsp;&nbsp;<br><br></kbd></a>
     <img align="right" style="width: 37px;" title="Behold yon man clad in yellow, who doth dance with mirth. Question him not, fair sirs." alt="Alas, he hath departed..." src="./assets/yellow_man.gif">
     """
 
