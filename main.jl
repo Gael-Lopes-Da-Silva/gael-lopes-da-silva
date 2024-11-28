@@ -21,7 +21,7 @@ function (@main)(args)
 
     ```json
     {
-        "message": "⍑ᒷꖎꖎ𝙹, ∴ᒷꖎᓵ𝙹ᒲᒷ ℸ ̣𝙹 ᒲ|| !¡∷𝙹⎓╎ꖎᒷ",
+        "message": "I dost extend a hearty welcome to thee upon mine profile page.",
         "informations": {
             "name": "Gaël LOPES DA SILVA",
             "age": $(getAge()),
