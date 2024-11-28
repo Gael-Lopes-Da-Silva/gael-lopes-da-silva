@@ -1,4 +1,4 @@
-<!--- 2024-11-28T14:08:31.033 --->
+<!--- 2024-11-28T14:18:03.865 --->
 
 ```shell
 > cat user.json
@@ -10,7 +10,8 @@
     "informations": {
         "name": "Gaël LOPES DA SILVA",
         "age": 21,
-        "location": "France",
+        "location": "The fair realm of France",
+        "class": "high sorcerer",
         "job": [
             "Web Developper",
             "Student"
