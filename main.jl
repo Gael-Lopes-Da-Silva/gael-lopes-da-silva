@@ -21,12 +21,13 @@ function (@main)(args)
 
     ```json
     {
-        "message": "I dost extend a hearty welcome to thee upon mine profile page.",
+        "message": "I dost extend a hearty welcome to thee upon mine profile page",
         "informations": {
             "name": "Gaël LOPES DA SILVA",
             "age": $(getAge()),
             "location": "The fair realm of France",
             "class": "high sorcerer",
+            "specialisation": "tamer of the digital realm"
             "job": [
                 "Web Developper",
                 "Student"
