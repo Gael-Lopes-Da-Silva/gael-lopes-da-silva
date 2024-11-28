@@ -1,4 +1,4 @@
-<!--- 2024-11-28T14:18:03.865 --->
+<!--- 2024-11-28T14:24:44.561 --->
 
 ```shell
 > cat user.json
@@ -6,12 +6,13 @@
 
 ```json
 {
-    "message": "I dost extend a hearty welcome to thee upon mine profile page.",
+    "message": "I dost extend a hearty welcome to thee upon mine profile page",
     "informations": {
         "name": "Gaël LOPES DA SILVA",
         "age": 21,
         "location": "The fair realm of France",
         "class": "high sorcerer",
+        "specialisation": "tamer of the digital realm"
         "job": [
             "Web Developper",
             "Student"
