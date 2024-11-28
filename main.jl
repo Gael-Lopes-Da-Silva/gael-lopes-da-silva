@@ -25,7 +25,8 @@ function (@main)(args)
         "informations": {
             "name": "Gaël LOPES DA SILVA",
             "age": $(getAge()),
-            "location": "France",
+            "location": "The fair realm of France",
+            "class": "high sorcerer",
             "job": [
                 "Web Developper",
                 "Student"
