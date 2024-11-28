@@ -20,14 +20,17 @@ function (@main)(args)
     ```
 
     ```json
-    "informations": {
-        "name": "Gaël LOPES DA SILVA",
-        "age": $(getAge()),
-        "location": "France",
-        "job": [
-            "Web Developper",
-            "Student"
-        ]
+    {
+        "message": "⍑ᒷꖎꖎ𝙹, ∴ᒷꖎᓵ𝙹ᒲᒷ ℸ ̣𝙹 ᒲ|| !¡∷𝙹⎓╎ꖎᒷ",
+        "informations": {
+            "name": "Gaël LOPES DA SILVA",
+            "age": $(getAge()),
+            "location": "France",
+            "job": [
+                "Web Developper",
+                "Student"
+            ]
+        }
     }
     ```
 
