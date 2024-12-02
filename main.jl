@@ -21,7 +21,10 @@ function (@main)(args)
 
     ```json
     {
-        "message": "",
+        "message": {
+            "icon": "🙌",
+            "content": "Welcome to my GitHub profile page"
+        },
         "informations": {
             "name": "Gaël LOPES DA SILVA",
             "age": $(getAge()),
