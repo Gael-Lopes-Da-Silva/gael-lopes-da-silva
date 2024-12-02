@@ -21,23 +21,21 @@ function (@main)(args)
 
     ```json
     {
-        "message": "I dost extend a hearty welcome to thee upon mine profile page",
+        "message": "",
         "informations": {
             "name": "Gaël LOPES DA SILVA",
             "age": $(getAge()),
-            "location": "The fair realm of France",
-            "class": "high sorcerer",
-            "specialisation": "tamer of the digital realm"
-            "job": [
-                "Web Developper",
-                "Student"
+            "location": "France",
+            "activities": [
+                "web developper",
+                "student"
             ]
         }
     }
     ```
 
     <a href="https://gael-lopes-da-silva.github.io/portfolio/"><kbd><br>&nbsp;<b>Portfolio</b>&nbsp;<br><br></kbd></a>
-    <img align="right" style="width: 37px;" title="Behold yon man clad in yellow, who doth dance with mirth. Question him not, fair sirs." alt="Alas, he hath departed..." src="./assets/yellow_man.gif">
+    <img align="right" style="width: 37px;" title="Behold the yellow dancing man. Do not question him!" alt="Alas, he went..." src="./assets/yellow_man.gif">
     """
 
     open("README.md", "w") do file
