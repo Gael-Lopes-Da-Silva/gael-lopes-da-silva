@@ -26,7 +26,10 @@ function (@main)(args)
             "content": "Welcome to my GitHub profile page"
         },
         "informations": {
-            "name": "Gaël LOPES DA SILVA",
+            "name": {
+                "firstname": "Gaël",
+                "lastname": "Lopes Da Silva"
+            },
             "age": $(getAge()),
             "location": "France",
             "activities": [

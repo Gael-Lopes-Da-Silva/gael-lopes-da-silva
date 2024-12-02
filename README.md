@@ -1,4 +1,4 @@
-<!--- 2024-12-02T08:43:08.882 --->
+<!--- 2024-12-02T09:44:26.764 --->
 
 ```shell
 > cat user.json
@@ -11,7 +11,10 @@
         "content": "Welcome to my GitHub profile page"
     },
     "informations": {
-        "name": "Gaël LOPES DA SILVA",
+        "name": {
+            "firstname": "Gaël",
+            "lastname": "Lopes Da Silva"
+        },
         "age": 21,
         "location": "France",
         "activities": [
