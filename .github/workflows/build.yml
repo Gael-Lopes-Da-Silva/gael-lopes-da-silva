@@ -1,7 +1,7 @@
 name: update README
 
 env:
-    JULIA_NUM_THREADS: 2
+    PYTHONUNBUFFERED: 1
 
 on:
     push:
@@ -17,11 +17,13 @@ jobs:
             - name: Github checkout
               uses: actions/checkout@v2
 
-            - name: Install julia
-              uses: julia-actions/setup-julia@latest
+            - name: Install Python
+              uses: actions/setup-python@v4
+              with:
+                python-version: '3.x'
 
             - name: Generate README.md
-              run: julia main.jl
+              run: python main.py
 
             - name: Commit
               uses: stefanzweifel/git-auto-commit-action@v5

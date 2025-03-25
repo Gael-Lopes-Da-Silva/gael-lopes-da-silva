@@ -1,5 +1,4 @@
-<!--- 2024-12-02T08:44:52.907 --->
-
+<!--- 2025-03-25 11:10:31.562897 --->
 ```shell
 > cat user.json
 ```
@@ -18,12 +17,16 @@
         "age": 21,
         "location": "France",
         "activities": [
-            "web developper",
+            "web developer",
             "student"
         ]
     }
 }
 ```
 
-<a href="https://gael-lopes-da-silva.github.io/portfolio/"><kbd><br>&nbsp;<b>Portfolio</b>&nbsp;<br><br></kbd></a>
-<img align="right" style="width: 37px;" title="Behold the yellow dancing man. Do not question him!" alt="Alas, he went..." src="./assets/yellow_man.gif">
+<a href="https://gael-lopes-da-silva.github.io/portfolio/">
+    <kbd>
+        <br>&nbsp;<b>Portfolio</b>&nbsp;<br><br>
+    </kbd>
+</a>
+<img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
