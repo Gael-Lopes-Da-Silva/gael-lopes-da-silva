@@ -1,4 +1,4 @@
-<!--- 2025-03-25 10:13:47.664124 --->
+<!--- 2025-03-25 10:17:03.614121 --->
 ```shell
 > cat user.json
 ```
@@ -24,8 +24,5 @@
 }
 ```
 
-<a href="https://gael-lopes-da-silva.github.io/portfolio/">
-    <kbd>
-        <br>&nbsp;<b>Portfolio</b>&nbsp;<br><br>
-    </kbd>
-</a><img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
+<a href="https://gael-lopes-da-silva.github.io/portfolio/"><kbd><br>&nbsp;<b>Portfolio</b>&nbsp;<br><br></kbd></a>
+<img align="right" style="width: 37px;" title="Behold the yellow dancing man. Do not question him!" alt="Alas, he went..." src="./assets/yellow_man.gif">
