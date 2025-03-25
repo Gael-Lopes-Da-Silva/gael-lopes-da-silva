@@ -41,8 +41,7 @@ def main():
     <kbd>
         <br>&nbsp;<b>Portfolio</b>&nbsp;<br><br>
     </kbd>
-</a>
-<img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
+</a><img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
 """
 
     with open("README.md", "w") as file:
