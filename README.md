@@ -1,4 +1,4 @@
-<!--- 2025-03-25 10:11:51.758162 --->
+<!--- 2025-03-25 10:13:47.664124 --->
 ```shell
 > cat user.json
 ```
@@ -28,5 +28,4 @@
     <kbd>
         <br>&nbsp;<b>Portfolio</b>&nbsp;<br><br>
     </kbd>
-</a>
-<img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
+</a><img align="right" style="width: 37px;" title="Behold the yellow dancing man!" alt="Too bad, he gone..." src="./assets/yellow_man.gif">
