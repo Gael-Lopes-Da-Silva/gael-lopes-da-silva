@@ -1,4 +1,4 @@
-<!--- 2025-06-18 00:49:07.216080 --->
+<!--- 2025-06-19 00:48:11.312865 --->
 ```shell
 > cat user.json
 ```
@@ -14,7 +14,7 @@
             "firstname": "Gaël",
             "lastname": "Lopes Da Silva"
         },
-        "age": 21,
+        "age": 22,
         "location": "France",
         "activities": [
             "web developer",
